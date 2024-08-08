@@ -5,15 +5,15 @@ Welcome to the Job Listing Application! This application is built using Next.js 
 ## Screenshots
 
 ### Main Interface
-![Main Interface](app/screenshots/MainInterface1.png)
-![Main Interface](app/screenshots/MainInterface2.png)
-![Main Interface](app/screenshots/MainInterface3.png)
-![Main Interface](app/screenshots/MainInterface4.png)
+![Main Interface](app/components/screenshots/MainInterface1.png)
+![Main Interface](app/components/screenshots/MainInterface2.png)
+![Main Interface](app/components/screenshots/MainInterface3.png)
+![Main Interface](app/components/screenshots/MainInterface4.png)
 
 ### Job Description
-![Job Description](app/screenshots/Details1.png)
-![Job Description](app/screenshots/Details2.png)
-![Job Description](app/screenshots/Details3.png)
+![Job Description](app/components/screenshots/Details1.png)
+![Job Description](app/components/screenshots/Details2.png)
+![Job Description](app/components/screenshots/Details3.png)
 
 ## Features
 - **Job Listings**: Display job listings with details such as job title, company, location, and application deadline.
