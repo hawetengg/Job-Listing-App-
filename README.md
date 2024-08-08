@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Job Listing Application
 
-## Getting Started
+Welcome to the Job Listing Application! This application is built using Next.js and provides a platform for listing and searching for job opportunities. The application features a user-friendly interface with job details, locations, and application deadlines.
 
-First, run the development server:
+## Screenshots
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Main Interface
+![Main Interface](app/screenshots/MainInterface1.png)
+![Main Interface](app/screenshots/MainInterface2.png)
+![Main Interface](app/screenshots/MainInterface3.png)
+![Main Interface](app/screenshots/MainInterface4.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Job Description
+![Job Description](app/screenshots/Details1.png)
+![Job Description](app/screenshots/Details2.png)
+![Job Description](app/screenshots/Details3.png)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
+- **Job Listings**: Display job listings with details such as job title, company, location, and application deadline.
+- **Job Details Page**: View detailed information about a specific job.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Installation
 
-## Learn More
+To get started with the Job Listing Application, follow these steps:
 
-To learn more about Next.js, take a look at the following resources:
+1. **Clone the repository**:
+    ```bash
+    git clonehttps://github.com/hawetengg/Job-Listing-App
+    cd job-listing-app
+    ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. **Install dependencies**:
+    ```bash
+    npm install
+    ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+3. **Run the application**:
+    ```bash
+    npm run dev
+    ```
 
-## Deploy on Vercel
+4. Open your browser and go to `http://localhost:3000` to see the application in action.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Usage
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Adding Job Listings
+To add job listings, navigate to the job listings management section and fill in the necessary details such as job title, company, location, and application deadline.
+
+### Viewing Job Details
+Click on a job listing to view detailed information about the job, including the job description, requirements, and how to apply.
+
